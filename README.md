@@ -6,12 +6,10 @@
 <p align="center"><i>i do stuff (sometimes)</i></p>
 
 ## about
-i mess around with low-level stuff, linux rices and minecraft tooling. daily driving arch + niri, usually have too many terminals open and a modded minecraft eating all my ram.
+i mess around with stuff, linux rices and minecraft mods. I daily driving arch + niri, and I have minecraft atake too much ram
+- currently learning: rust
+- ask me about: linux, ricing, minecraft mods,
 
-- currently working on: a custom desktop shell and some minecraft world-search tools
-- currently learning: more c++, more rust, less procrastinating
-- ask me about: linux, ricing, minecraft mods, why my laptop is lagging
-- fun fact: i have restarted my dock more times than i can count
 
 ## languages
 <div align="center">
