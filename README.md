@@ -3,6 +3,16 @@
   <img draggable="false" src="https://komarev.com/ghpvc/?username=kyoubitt&style=for-the-badge&color=7a3fd1">
 </div>
 
+<p align="center"><i>i do stuff (sometimes)</i></p>
+
+## about
+i mess around with low-level stuff, linux rices and minecraft tooling. daily driving arch + niri, usually have too many terminals open and a modded minecraft eating all my ram.
+
+- currently working on: a custom desktop shell and some minecraft world-search tools
+- currently learning: more c++, more rust, less procrastinating
+- ask me about: linux, ricing, minecraft mods, why my laptop is lagging
+- fun fact: i have restarted my dock more times than i can count
+
 ## languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,java&theme=dark" alt="languages" />
