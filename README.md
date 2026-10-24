@@ -21,7 +21,8 @@ i mess around with stuff, linux rices and minecraft mods. I daily driving arch +
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake.svg">
   </picture>
-  <br>
-  <img height="140" src="https://github-readme-stats.zcy.dev/api?username=kyoubitt&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br><br><br>
+  <img height="140" src="https://github-readme-stats.zcy.dev/api?username=kyoubitt&show_icons=true&theme=tokyonight&hide_border=true&custom_title=kyoubitt%20stats"/>
+  &nbsp;&nbsp;&nbsp;
   <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=kyoubitt&theme=tokyonight&hide_border=true"/>
 </div>
