@@ -10,7 +10,7 @@ i mess around with stuff, linux rices and minecraft mods. I daily driving arch +
 - ask me about: linux, ricing, minecraft mods
 
 ## stack
-<img src="https://skillicons.dev/icons?i=py,cpp,cs,java,lua,linux,windows,arch&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,lua,linux,windows,arch&theme=dark" alt="stack" />
 <br><br>
 
 ## activity
