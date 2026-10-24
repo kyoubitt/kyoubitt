@@ -4,7 +4,7 @@
 </div>
 
 ## about
-i mess around with stuff, linux rices and minecraft mods. I daily driving arch + niri, and I have minecraft atake too much ram
+i mess around with stuff, linux rices and minecraft mods. I daily driving arch + niri.
 
 - currently learning: rust
 - ask me about: linux, ricing, minecraft mods
