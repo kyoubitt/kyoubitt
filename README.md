@@ -3,17 +3,17 @@
   <img draggable="false" src="https://komarev.com/ghpvc/?username=kyoubitt&style=for-the-badge&color=7a3fd1">
 </div>
 
-## 💻 languages
+## languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,java&theme=dark" alt="languages" />
 </div>
 
-## 🖥️ systems
+## systems
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,arch&theme=dark" alt="systems" />
 </div>
 
-## 📈 github activity
+## github activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake-dark.svg">
@@ -22,7 +22,7 @@
   </picture>
 </div>
 
-## 📊 github stats
+## github stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.zcy.dev/api?username=kyoubitt&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kyoubitt&theme=tokyonight"/>
