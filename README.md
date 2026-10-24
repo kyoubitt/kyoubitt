@@ -9,14 +9,14 @@
   </p>
 </div>
 
-## 👤 about
-<div align="center">
-  <p>swe • systems • ml • cto @ neuralese-but-better</p>
-  <p>currently building things that compile on the second try</p>
-</div>
-
 ## 📈 github activity
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake.svg">
+  </picture>
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyoubitt&theme=tokyo-night" alt="GitHub Activity Graph">
   </a>
@@ -36,11 +36,9 @@
 ## ⏱️ coding time
 ```text
 total time: 9999 hrs
-
-yes this is real
 ```
 
 ---
 <div align="center">
-  <em>thanks for visiting, don't look at my commit history</em>
+  <em>thanks for visiting</em>
 </div>
