@@ -21,6 +21,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: inline css variables
+        run: |
+          python3 - <<'PY'
+          import re, glob
+          for f in glob.glob("dist/*.svg"):
+              s = open(f).read()
+              v = dict(re.findall(r"(--[a-z0-9]+):([^;}]+)", s.split("</style>")[0]))
+              s = re.sub(r"var\((--[a-z0-9]+)\)", lambda m: v[m.group(1)], s)
+              open(f, "w").write(s)
+          PY
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
