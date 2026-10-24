@@ -18,9 +18,9 @@ i mess around with stuff, linux rices and minecraft mods. I daily driving arch +
 ## activity
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kyoubitt/kyoubitt/output/github-contribution-grid-snake.svg?v=2">
   </picture>
   <br><br><br>
   <img height="140" src="https://github-readme-stats.zcy.dev/api?username=kyoubitt&show_icons=true&hide_border=true&custom_title=kyoubitt%20stats&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff"/>
