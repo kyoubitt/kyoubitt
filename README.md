@@ -13,6 +13,7 @@ i mess around with stuff, linux rices and minecraft mods. I daily driving arch +
 
 ## stack
 <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,linux,windows,arch&theme=dark" alt="stack" />
+<br><br>
 
 ## activity
 <div align="center">
